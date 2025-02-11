@@ -23,3 +23,7 @@ CREATE TABLE tasks (
 
 4. Go to the link below in your Microsoft edge browser and the app should be running
  http://localhost/todo_list/index.html
+
+
+
+![Image](https://github.com/user-attachments/assets/fed89337-1292-453b-b9d3-ce65131be5d6)
