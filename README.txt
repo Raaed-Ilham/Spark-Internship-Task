@@ -3,7 +3,7 @@ In order to run the code please follow the following steps
 1. Install and confirgure WAMP server, make sure APACHE and MYSQL are running
 
 2. Extract this zip file in the folder "C:\wamp64\www\"
-The folder name should stay the same
+The folder name should be: Task Manager Raaed Ilham
 
 3. Create the database and tables
 
